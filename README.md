@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**gramliu/gramliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Gram Liu
 
-Here are some ideas to get you started:
+🎓 CMU Electrical and Computer Engineering Major
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Fullstack Developer
+
+👨‍💻 Tech Enthusiast
+
+
+Want to learn more about my work? Check out my [website](https://gramliu.com) or my [resume](http://gramliu.com/resume).
+
+Interested? Let's connect on [LinkedIn](https://www.linkedin.com/in/gramliu/)!
