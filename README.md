@@ -4,7 +4,7 @@
 
 🎓 CMU Electrical and Computer Engineering Major
 
-🖥️ Fullstack and IoT systems developer
+🖥️ Fullstack Engineer
 
 👨‍💻 Tech Enthusiast
 
