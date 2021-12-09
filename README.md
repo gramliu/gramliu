@@ -14,4 +14,4 @@ Next summer, I will be joining [Stripe](http://stripe.com/) in Seattle as a SWE 
 I'm also an undergraduate research assistant at the CMU CHIMPS Lab, where I developed a privacy-focused IoT app development framework. Right now, I'm building a decentralized app ecosystem, enabling people to share the ambient data collected by their smart home sensors.
 
 Want to learn more about my work? Check out my [website](https://gramliu.com).<br>
-Feel free to add me over on [LinkedIn](https://www.linkedin.com/in/gramliu/)! I'm always down for a coffee chat.
+Feel free to add me over on [LinkedIn](https://www.linkedin.com/in/gramliu/)! I'm always down to chat.
