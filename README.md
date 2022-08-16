@@ -8,7 +8,7 @@
 
 👨‍💻 Tech Enthusiast
 
-This summer, I was a SWE intern at [Stripe](https://stripe.com/) working on [Terminal](https://stripe.com/terminal), where I built a novel automated testing framework for our readers.
+This summer, I was a SWE intern at [Stripe](https://stripe.com/) working on [Terminal](https://stripe.com/terminal), where I built a first-of-a-kind CI testing framework and test suite for our readers.
 
 Last summer, I was a SWE intern at [Dashlabs.ai](https://www.dashlabs.ai/). I built the digital memberships platform for the Philippine Red Cross, which helped expedite the roll out of COVID-19 vaccines in the Philippines.
 
