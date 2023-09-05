@@ -6,7 +6,7 @@
 
 👨‍💻 Tech Enthusiast
 
-I'll be joining [Stripe](https://stripe.com/) in San Francisco 🌉 in Fall 2023 where I'll be working on [Tap to Pay](https://stripe.com/terminal/tap-to-pay).
+I'm currently at [Stripe](https://stripe.com/) in San Francisco 🌉 where I work on [Tap to Pay](https://stripe.com/terminal/tap-to-pay).
 
 In 2022, I was a SWE intern at [Stripe](https://stripe.com/) working on [Terminal](https://stripe.com/terminal), where I built a first-of-a-kind CI testing framework and test suite for the Terminal POS card readers.
 
