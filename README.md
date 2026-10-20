@@ -2,9 +2,9 @@
 
 # I'm Gram Liu
 
-I'm currently at [Decagon](https://decagon.ai/) in San Francisco 🌉 building AI agents.
+I'm currently at [Instinct](https://instinct.com/) in San Francisco 🌉 building the personal agent for every consumer.
 
-Previously, I worked at [Stripe](https://stripe.com/), building [Tap to Pay](https://stripe.com/terminal/tap-to-pay) and testing infrastructure for [Stripe Terminal](https://stripe.com/terminal).
+Previously, I worked at [Decagon](https://decagon.ai/) and [Stripe](https://stripe.com/).
 
 Want to learn more about my work? Check out my [website](https://gramliu.com).<br>
 
